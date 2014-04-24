@@ -1,0 +1,9 @@
+/target
+/elasticsearch-inject.iml
+/hs_err_pid6368.log
+/hs_err_pid9900.log
+/replay_pid6368.log
+/.idea
+/.settings
+/.classpath
+/.project
